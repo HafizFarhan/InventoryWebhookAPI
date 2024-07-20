@@ -1,0 +1,6 @@
+@InventoryWebhookAPI_HostAddress = http://localhost:5201
+
+GET {{InventoryWebhookAPI_HostAddress}}/InventoryWebhookAPI/
+Accept: application/json
+
+###
